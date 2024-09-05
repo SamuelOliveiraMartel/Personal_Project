@@ -36,6 +36,6 @@ Les fichiers exécutables disponibles sont les suivants :
 
 ## Contact
 
-Pour toute question ou assistance, veuillez contacter [Samuel Oliveira-Martel](mailto:oliveiramartelsamuel@gmail.com).
+Pour toute question ou assistance, veuillez contacter [Samuel Oliveira Martel](mailto:oliveiramartelsamuel@gmail.com).
 
 Merci d'utiliser [Personal Project](https://github.com/SamuelOliveiraMartel/Personal_Project) !
