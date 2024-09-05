@@ -1,4 +1,4 @@
-# Diviseur de Vidéos
+# Découpeur de Clips Vidéo.
 
 ## Présentation
 
