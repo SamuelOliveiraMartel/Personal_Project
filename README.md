@@ -1,6 +1,6 @@
 # Personal Project
 
-Bienvenue dans le dépôt de [Personal Project](https://github.com/SamuelOliveiraMartel/Personal_Project). Ce projet contient plusieurs dossiers et fichiers exécutables. Vous trouverez ci-dessous des liens vers les dossiers et les fichiers `.exe` associés.
+Bienvenue dans le dépôt de [Personal Project](https://github.com/SamuelOliveiraMartel/Personal_Project). Ce projet contient plusieurs dossiers et fichiers exécutables. Vous trouverez ci-dessous des liens vers les dossiers, les fichiers `.exe` associés, et les fichiers README pour chaque dossier.
 
 ## Dossiers
 
@@ -8,12 +8,15 @@ Voici les dossiers disponibles dans ce dépôt :
 
 - **[Video Combiner](Video%20Combiner/)**
   - Contient le fichier `video_combiner.exe`, un superposeur de vidéos.
+  - Consultez le fichier README : [README.md](Video%20Combiner/README.md)
   
 - **[Video Downloader](Video%20Downloader/)**
   - Contient le fichier `video_downloader.exe`, un téléchargeur de vidéos YouTube.
+  - Consultez le fichier README : [README.md](Video%20Downloader/README.md)
   
 - **[Video Extractor](Video%20Extractor/)**
   - Contient le fichier `video_extractor.exe`, un découpeur de clips vidéo.
+  - Consultez le fichier README : [README.md](Video%20Extractor/README.md)
 
 ## Fichiers Exécutables
 
